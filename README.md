@@ -7,7 +7,7 @@ This repository contains the scripts utilized for the ChIP-Seq data analysis of 
 ### 1. *SHELL*
 This section includes scripts for read mapping and peak calling for Fur1 and Fur2 read data.
 
-### FULL DATASET ANALYSIS
+### ANALYSIS WITH FULL DATASET
 - FUR1_analysis.sh
 - FUR2_analysis.sh
 ### ANALYISIS WITH SUBSAMPLED READS
