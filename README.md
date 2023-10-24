@@ -17,9 +17,11 @@ Read mapping and peak calling for Fur1 and Fur2 under 0.6M and 2.5 ChIP-Seq read
 Programs required: bowtie2, macs2, Seqtk
 
 ## 2. *R-Studio*
+### ChIP-Seq peaks association with genes
 -
+### Gene-operon association
 -
--
+### Correlation of ChIP-seq Data with Expression Data
 -
 
 
