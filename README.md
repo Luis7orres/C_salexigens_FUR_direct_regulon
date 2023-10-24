@@ -18,11 +18,11 @@ Programs required: bowtie2, macs2, Seqtk
 
 ## 2. *R-Studio*
 ### ChIP-Seq peaks association with genes
--
+- Peak-gene_association.R
 ### Gene-operon association
--
+- OPERON.R
 ### Correlation of ChIP-seq Data with Expression Data
--
+- RNASEQ_CHIPSEQ.R
 
 
 
