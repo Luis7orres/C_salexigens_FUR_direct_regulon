@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=FUR1sub
 
-#### FUR1 0.6M NaCl SUBSAMPLED ANALYSIS ####
+#### FUR1 SUBSAMPLED ANALYSIS ####
 
 ### SUBSAMPLING ###
 
