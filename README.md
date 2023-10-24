@@ -7,10 +7,11 @@ The analyses were divided in two parts
 
 Read mapping and peak calling for Fur1 and Fur2 under 0.6M and 2.5 ChIP-Seq reads 
 
-FULL DATASET
+FULL DATASET ANALYSIS
 - FUR1_analysis.sh
-- FUR1_analysis.sh
--
+- FUR2_analysis.sh
+ANALYISIS WITH SUBSAMPLED READS
+- 
 -
 
 2. R-Studio
