@@ -5,7 +5,7 @@ This repository contains the scripts utilized for the ChIP-Seq data analysis of 
 ## Contents
 
 ### 1. *SHELL*
-This section includes scripts for read mapping and peak calling for Fur1 and Fur2 mutants under different salinity conditions.
+This section includes scripts for read mapping and peak calling for Fur1 and Fur2 read data.
 
 ### FULL DATASET ANALYSIS
 - FUR1_analysis.sh
