@@ -16,7 +16,7 @@ This section includes scripts for read mapping and peak calling for Fur1 and Fur
 
 **Programs required:** bowtie2, macs2, Seqtk
 
-### 2. *R-Studio*
+### 2. *R*
 This section includes R scripts for ChIP-Seq peak-gene association, gene-operon association, and correlation of ChIP-Seq data with expression data.
 
 - Peak-gene_association.R
