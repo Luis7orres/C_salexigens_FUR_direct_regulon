@@ -1,11 +1,11 @@
 # TMF_LuisTorres 
 ## Iron homeostasis and osmoadaptation: identification of the direct regulon of Fur metalloregulators in Chromohalobacter salexigens
-Code used for ChIP-Seq analysis of Fur1 and Fur2 mutants during master thesis.
+This repository contains the scripts utilized for the ChIP-Seq data analysis of Fur1 and Fur2 mutants under 0.6 and 2.5M NaCl salinity conditions
 
-The analyses were divided in two parts
+## Contents
 
-## 1. *SHELL*
-Read mapping and peak calling for Fur1 and Fur2 under 0.6M and 2.5 ChIP-Seq reads 
+### 1. *SHELL*
+This section includes scripts for read mapping and peak calling for Fur1 and Fur2 mutants under different salinity conditions.
 
 ### FULL DATASET ANALYSIS
 - FUR1_analysis.sh
@@ -14,15 +14,17 @@ Read mapping and peak calling for Fur1 and Fur2 under 0.6M and 2.5 ChIP-Seq read
 - FUR1_subsampled_analysis.sh
 - FUR2_subsampled_analysis.sh
 
-Programs required: bowtie2, macs2, Seqtk
+**Programs required:** bowtie2, macs2, Seqtk
 
-## 2. *R-Studio*
-### ChIP-Seq peaks association with genes
+### 2. *R-Studio*
+This section includes R scripts for ChIP-Seq peak-gene association, gene-operon association, and correlation of ChIP-Seq data with expression data.
+
 - Peak-gene_association.R
-### Gene-operon association
 - OPERON.R
-### Correlation of ChIP-seq Data with Expression Data
 - RNASEQ_CHIPSEQ.R
+
+## Contributors
+- Luis Torres Ares
 
 
 
