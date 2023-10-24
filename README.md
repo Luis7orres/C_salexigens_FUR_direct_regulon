@@ -4,7 +4,7 @@ Code used for ChIP-Seq analysis of Fur1 and Fur2 mutants during master thesis.
 
 The analyses were divided in two parts
 
-## 1. SHELL
+## 1. *SHELL*
 Read mapping and peak calling for Fur1 and Fur2 under 0.6M and 2.5 ChIP-Seq reads 
 
 ### FULL DATASET ANALYSIS
