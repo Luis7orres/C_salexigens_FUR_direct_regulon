@@ -23,6 +23,8 @@ This section includes R scripts for ChIP-Seq peak-gene association, gene-operon 
 - OPERON.R
 - RNASEQ_CHIPSEQ.R
 
+**Libraries required**: GenomicFeatures, ChIPseeker, GenomicRanges, VennDiagram, ggVennDiagram, ggplot2, gridExtra
+
 ## Contributors
 - Luis Torres Ares
 
