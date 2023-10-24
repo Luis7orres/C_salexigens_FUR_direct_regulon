@@ -3,7 +3,7 @@
 Code used for ChIP-Seq analysis of Fur1 and Fur2 mutants during master thesis.
 
 The analyses were divided in two parts
-1. UNIX/LINUX
+1. SHELL
 
 - FUR1
 -
