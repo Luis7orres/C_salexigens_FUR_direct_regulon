@@ -25,7 +25,7 @@ FUR1_0.6_genes <- read.table("../TxDB/LISTAS DE GENES/genes_FUR1_0.6.txt",
 # in an operon 
 
 operon_genes_FUR1_0.6 <- subset(x = chs_predicted_operons,
-                                `Locus Name` %in% FUR1_0.6_genes$target_genes_FUR_AP_0.6)
+                                `Locus Name` %in% FUR1_0.6_genes$target_genes_FUR1_AP_0.6)
 operon_genes_FUR1_0.6 <- operon_genes_FUR1_0.6$Operon
 operon_genes_FUR1_0.6 <- subset(chs_predicted_operons, Operon %in% operon_genes_FUR1_0.6)
 
@@ -50,7 +50,7 @@ FUR1_2.5_genes <- read.table("../TxDB/LISTAS DE GENES/genes_FUR1_2.5.txt",
 # in an operon 
 
 operon_genes_FUR1_2.5 <- subset(x = chs_predicted_operons,
-                                `Locus Name` %in% FUR1_2.5_genes$target_genes_FUR_AP_2.5)
+                                `Locus Name` %in% FUR1_2.5_genes$target_genes_FUR1_AP_2.5)
 operon_genes_FUR1_2.5 <- operon_genes_FUR1_2.5$Operon
 operon_genes_FUR1_2.5 <- subset(chs_predicted_operons, Operon %in% operon_genes_FUR1_2.5)
 
