@@ -1,6 +1,6 @@
 # C_salexigens_FUR_direct_regulon
-## Iron homeostasis and osmoadaptation: identification of the direct regulon of Fur metalloregulators in Chromohalobacter salexigens
-This repository contains the scripts utilized for the ChIP-Seq data analysis of Fur1 and Fur2 mutants under 0.6 and 2.5M NaCl salinity conditions.
+## "Iron homeostasis and osmoadaptation: identification of the direct regulon of Fur metalloregulators in Chromohalobacter salexigens
+This repository contains the scripts utilized for the ChIP-Seq data analysis of Fur1 and Fur2 mutants under 0.6 and 2.5M NaCl salinity conditions".
 
 ## Contents
 
